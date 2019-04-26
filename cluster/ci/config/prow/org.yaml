@@ -59,6 +59,7 @@ orgs:
     - JacobTanenbaum
     - JiangtianLi
     - JohnStrunk
+    - Johnny500
     - Jooho
     - KurtStam
     - LalatenduMohanty
@@ -909,9 +910,10 @@ orgs:
         maintainers:
         - stevekuznetsov
         members:
-        - petr-muller
+        - Johnny500
         - bbguimaraes
         - droslean
+        - petr-muller
         privacy: closed
         repos:
           release: read
@@ -2846,6 +2848,11 @@ orgs:
         privacy: closed
         repos:
           vagrant-openshift: read
+      Test:
+        description: ""
+        members:
+        - Johnny500
+        privacy: closed
       ansible-design:
         description: Group for notifications related to Ansible Design, Best Practices,
           and Architecture
